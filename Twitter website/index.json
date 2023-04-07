@@ -1,0 +1,135 @@
+{
+  "tweets": [
+    {
+      "replied": "Elon Musk replied",
+      "profileImage": "images/johnErlichman.jpg",
+      "profileName": "Jon Erlichman",
+      "profileTweetID": "@JonErlichman . Jan 22",
+      "tweetContent": "Tesla got started 20 years ago.<br>At the time, it was unclear if the company would ever sell one vehicle.<br>Last year, it sold more than 1 million.<br>And this year,Tesla's revenue may top $100 billion.<br>Here are 8 influential momemnts from the past two decades...👇🧵",
+      "tweetContentImage": "images/ElonMusk (1).jpg",
+      "tweetCommentsCount": "538",
+      "tweetRetweetCount": "2,340",
+      "tweeLikesCount": "26.2K",
+      "tweetViewsCount": "6.6M"
+    },
+    {
+      "profileImage": "images/ElonMusk.jpg",
+      "profileName": "Elon Musk",
+      "profileTweetID": "@elonmusk . Jan 23",
+      "tweetContent": " Replying to <a>@JonErlichman</a></span><br> Good thread",
+      "tweetCommentsCount": "1,069",
+      "tweetRetweetCount": "1,178",
+      "tweeLikesCount": "28.2K",
+      "tweetViewsCount": "5M"
+    },
+    {
+      "profileImage": "images/anandMahindra.jpg",
+      "profileName": "anand mahindra",
+      "profileTweetID": "@anandmahindra . 2h",
+      "tweetContent": "A flying bike from a Japanese startup. Will cost around $800K in the U.S.I suspect it will be used mainly by police forces around the world; leading to some interesting new chase sequences in movies...",
+      "tweetContentImage": "images/flying-bike.png",
+      "tweetCommentsCount": "196",
+      "tweetRetweetCount": "804",
+      "tweeLikesCount": "5,699",
+      "tweetViewsCount": "246.7"
+    },
+    {
+      "replied": "You might like .See more",
+      "profileImage": "images/vaibhav.jpg",
+      "profileName": "Vaibhav Matere",
+      "profileTweetID": "@vaibhav_matere .23h",
+      "tweetContent": "Started learning @figma in detailed today from FrontendMasters and now it's down! #figmadown",
+      "tweetCommentsCount": "5",
+      "tweetRetweetCount": "1",
+      "tweeLikesCount": "24",
+      "tweetViewsCount": "4,441"
+    },
+    {
+      "profileImage": "images/modi.png",
+      "profileName": "PMO India",
+      "profileTweetID": "@PMOIndia . 21m",
+      "tweetContent": "India government organization राष्ट्रपति सीसी कल हमारे गणतंत्र दिवस समारोह में मुख्य अतिथि के रूप में शामिल होंगे। यह पूरे भारत के लिए सम्मान और हर्ष का विषय है: PM @narendramodi",
+      "tweetCommentsCount": "5",
+      "tweetRetweetCount": "1",
+      "tweeLikesCount": "24",
+      "tweetViewsCount": "4,441"
+    },
+    {
+      "profileImage": "images/mosh.jpg",
+      "profileName": "Mosh",
+      "profileTweetID": "@moshhamedani . Jan24",
+      "tweetContent": "My fellow YouTubers: how do you deal with spammers leaving a reply on every comment below your videos? I get a lot of these pretending to be me just to get people message them on telegram or WhatsApp!",
+      "tweetCommentsCount": "15",
+      "tweetRetweetCount": "7",
+      "tweeLikesCount": "133",
+      "tweetViewsCount": "20.2K"
+    },
+    {
+      "profileImage": "images/ishant.jpg",
+      "profileName": "Ishant Juyal",
+      "profileTweetID": "@juyal_ishant . Jan23",
+      "tweetContent": "Reconsidering all the decisions I took in last 3 months.",
+      "tweetCommentsCount": "2",
+      "tweetRetweetCount": "1",
+      "tweeLikesCount": "13",
+      "tweetViewsCount": "1,191"
+    },
+    {
+      "profileImage": "images/ndtv.png",
+      "profileName": "NDTV",
+      "profileTweetID": "@ndtv . 16h",
+      "tweetContent": "#JNU",
+      "tweetContentImage": "images/NDTV-news.jfif",
+      "tweetCommentsCount": "5",
+      "tweetRetweetCount": "11",
+      "tweeLikesCount": "73",
+      "tweetViewsCount": "2,131"
+    }
+  ],
+
+  "trending": [
+    {
+      "trendingIn": "Technology.Trending",
+      "hashTag": "#MicrosoftTeams",
+      "trendingWith": "2,990 Tweets"
+    },
+    {
+      "trendingIn": "Entertainment.Trending",
+      "hashTag": "#PathaanReview",
+      "trendingWith": "Trending with Blockbuster,#DeepikaPadukone"
+    },
+    {
+      "trendingIn": "Entertainment.Trending",
+      "hashTag": "BoycottbollywoodCompletely",
+      "trendingWith": "24K Tweets"
+    },
+    {
+      "trendingIn": "Trending in India",
+      "hashTag": "Tata Salt",
+      "trendingWith": "Trending with #HarSawaalUthega"
+    },
+    {
+      "trendingIn": "Entertainment.Trending",
+      "hashTag": "#Thalapathy67",
+      "trendingWith": "62.5K Tweets"
+    }
+  ],
+
+  "whoToFollow": [
+    {
+      "profileImage": "images/tushar.jpg",
+      "profileName": "Tushar Kumar",
+      "profile_id": "@_prachand_"
+    },
+    {
+      "profileImage": "images/ravi.jpg",
+      "profileName": "Ravi Roushan Sinha",
+      "profile_id": "@ravirrs1"
+    },
+    {
+      "profileImage": "images/jsw.jpg",
+      "profileName": "JSW Steel",
+      "profile_id": "@jswsteel"
+    }
+  ]
+}
